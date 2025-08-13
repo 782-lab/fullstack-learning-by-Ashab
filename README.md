@@ -54,6 +54,12 @@ I’m **Md Ashab Akhtar**, a B.Tech CSE 3rd year student, currently on a mission
 - 📁 **Interview Preparation** (Questions, Tips, Resources)  
 
 ---
+## Daily Learning Streak
+- Day 1 ✅
+- Day 2 ✅
+- Day 3 ✅
+
+---
 
 ## 📬 Connect with Me
 - 📧 Email: **mx08264@gmail.com**  
