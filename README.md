@@ -64,7 +64,7 @@ I’m **Md Ashab Akhtar**, a B.Tech CSE 3rd year student, currently on a mission
 
 ## 📬 Connect with Me
 - 📧 Email: **mx08264@gmail.com**  
-- 📞 Phone: **+91 92799 92546**  
+- 📞 Phone: **+91 9279992546**  
 - 🌐 Portfolio (Coming Soon)
 
 ---
