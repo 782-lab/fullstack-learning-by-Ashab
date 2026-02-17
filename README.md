@@ -17,6 +17,7 @@ I’m **Md Ashab Akhtar**, a B.Tech CSE 3rd year student, currently on a mission
 ## 📅 My Current Learning Plan
 
 ✅ **Phase 1: Foundation**  
+
 - ✅ HTML & CSS Basics  
 - ✅ JavaScript Fundamentals  
 - ✅ Git & GitHub  
