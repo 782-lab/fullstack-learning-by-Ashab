@@ -1,6 +1,7 @@
 # 🚀 Full Stack Developer Journey – Md Ashab Akhtar
 
-Hi! 👋  
+Hi! 👋 
+
 I’m **Md Ashab Akhtar**, a B.Tech CSE 3rd year student, currently on a mission to go from **Zero ➡ Hero** in Full Stack Development 
 
 ---
